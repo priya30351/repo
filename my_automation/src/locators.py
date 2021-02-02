@@ -1,0 +1,5 @@
+#SEARCH_BOX = "//input[@name='q']"
+#SEARCH_BUTTON = "(//input[@name='btnK'])[2]"
+SEARCH_BOX ="input#twotabsearchtextbox.nav-progressive-attribute"
+#SEARCH_BUTTON ="input#nav-search-submit-button.nav-input.nav-progressive-attribute"
+SEARCH_BUTTON ="input#nav-search-submit-button.nav-input.nav-progressive-attribute"
