@@ -9,3 +9,4 @@ class common(BrowserAction):
 
     def launch_url(self, url):
         self.driver.get(url)
+        print("test")
